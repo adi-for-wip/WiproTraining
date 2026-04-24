@@ -161,5 +161,6 @@ public class FirstProgram {
 		int[] nums = {10,2,4,5,7};
 		int sl = secondLargest(nums);
 		System.out.println(sl);
+		System.out.println("Hello there");
 	}
 }
